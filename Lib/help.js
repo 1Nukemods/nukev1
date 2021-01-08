@@ -1,6 +1,6 @@
 function help() {
     return `
-┏ ❣ *SHINOMIYA KAGUYA BOT* ❣
+┏ ❣ *NUKE  BOTS* ❣
 ╿
 ┷┯ ☾ Group Commands ☽
    ╽
